@@ -41,7 +41,7 @@
     "@mdx-js/react": "^3.0.0",
     "ahooks": "^3.8.0",
     "antd": "^5.19.2",
-    "axios": "^1.7.2",
+    "axios": "^1.12.0",
     "clsx": "^2.0.0",
     "copyforjs": "^1.0.6",
     "databend-logos": "^0.0.16",
